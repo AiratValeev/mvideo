@@ -1,0 +1,1 @@
+Данный репозиторий содержит перечень [тест-кейсов](https://github.com/AiratValeev/mvideo/blob/master/case.md) для проверки функциональности корзины, а так же [инструкцию по заказу товара](https://github.com/AiratValeev/mvideo/blob/master/proc.md).
